@@ -22,7 +22,6 @@ var ChatComponent = /** @class */ (function () {
         //API
         this._chatUrl = 'api/chat/userChat';
         //Chat
-        this.txtMessage = '';
         this.onlineUser = [];
         this.chatUsername = null;
         this.chatMessages = [];
