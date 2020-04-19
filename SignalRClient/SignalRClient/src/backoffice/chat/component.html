@@ -1,4 +1,4 @@
-﻿<div class="row">
+<div class="row">
     <div class="col-lg-12">
         <div class="card">
             <div class="card-header">
@@ -76,7 +76,8 @@
 
                             <div class="type_msg">
                                 <div class="input_msg_write">
-                                    <input type="text" class="write_msg form-control" #msgInput (keydown.enter)="sendMessage(msgInput.value);false;msgInput.value='';" />
+                                    <input type="text" class="write_msg form-control" #msgInput (keydown.enter)="sendMessage(msgInput.value);false;msgInput.value='';" 
+                                           placeholder="Type a message" onfocus="this.placeholder=''" onblur="this.placeholder='Type a message'"/>
                                     <button class="msg_send_btn" type="button">
                                         <i class="fa fa-paper-plane-o" aria-hidden="true" (click)="sendMessage(msgInput.value);false;msgInput.value='';"></i>
                                     </button>
@@ -89,4 +90,3 @@
         </div>
     </div>
 </div>
-
