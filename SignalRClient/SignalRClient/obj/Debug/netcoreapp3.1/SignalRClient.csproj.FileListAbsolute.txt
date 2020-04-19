@@ -1,0 +1,112 @@
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\tsconfig.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.exe
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.deps.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.dev.json
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.dll
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.pdb
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfoInputs.cache
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfo.cs
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.RazorTargetAssemblyInfo.cache
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.Manifest.cache
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.xml
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.dll
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.pdb
+C:\Users\Shashangka\source\repos\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.genruntimeconfig.cache
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\tsconfig.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.exe
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.deps.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.dev.json
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.csproj.CoreCompileInputs.cache
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfoInputs.cache
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfo.cs
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.RazorTargetAssemblyInfo.cache
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.Manifest.cache
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.xml
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.genruntimeconfig.cache
+D:\Work\Trial\SigR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.csprojAssemblyReference.cache
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\tsconfig.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.exe
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.deps.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.dev.json
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.csproj.CoreCompileInputs.cache
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfoInputs.cache
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfo.cs
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.RazorTargetAssemblyInfo.cache
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.Manifest.cache
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.xml
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SignalR\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.genruntimeconfig.cache
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\tsconfig.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.exe
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.deps.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.dev.json
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.csproj.CoreCompileInputs.cache
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfoInputs.cache
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfo.cs
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.RazorTargetAssemblyInfo.cache
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.Manifest.cache
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.xml
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.genruntimeconfig.cache
+D:\Work\Trial\SigR\Last\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.csprojAssemblyReference.cache
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\package.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\tsconfig.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.exe
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.deps.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.runtimeconfig.dev.json
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\bin\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.csproj.CoreCompileInputs.cache
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfoInputs.cache
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.AssemblyInfo.cs
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.RazorTargetAssemblyInfo.cache
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.Manifest.cache
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\staticwebassets\SignalRClient.StaticWebAssets.xml
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.dll
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.pdb
+D:\Work\Trial\SignalR\New folder\SignalRClient\SignalRClient\obj\Debug\netcoreapp3.1\SignalRClient.genruntimeconfig.cache

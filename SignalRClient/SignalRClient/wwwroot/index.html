@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<!-- BEGIN HEAD -->
+<head>
+    <meta charset="utf-8">
+    <title>SignalR</title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="assets/css/chatstyle.css" rel="stylesheet" />
+
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <app-root>
+        <div class="loader"></div>
+    </app-root>
+
+    <!-- load browser support dependencies -->
+    <script src="lib/zone.js/dist/zone.js" type="text/javascript"></script>
+    <script src="lib/reflect-metadata/Reflect.js" type="text/javascript"></script>
+    <script src="lib/signalr/signalr.js"></script>
+
+    <!-- load our angular app with systemjs -->
+    <script src="lib/systemjs/dist/system.js" type="text/javascript"></script>
+    <script src="config/systemjs.config.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        System.import('app/app.js').catch(function (err) { console.error(err); });
+    </script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>

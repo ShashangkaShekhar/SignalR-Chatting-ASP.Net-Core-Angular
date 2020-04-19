@@ -1,0 +1,8 @@
+﻿<div class="content">
+    <h3>Welcome, {{loggedUsername}} || 
+        <a href="javascript:void(0)" (click)="logout()" *ngIf="loggedUsername">
+            <i class="icon-power mr-2"></i> Logout
+        </a>
+    </h3>
+    <router-outlet></router-outlet>
+</div>

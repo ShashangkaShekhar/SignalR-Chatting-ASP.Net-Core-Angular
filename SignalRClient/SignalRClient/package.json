@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "name": "angular",
+  "private": true,
+  "scripts": {
+    "start": "tsc && concurrently \"tsc -w\"  \"lite-server\" \"gulp\"",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@angular/animations": "8.2.12",
+    "@angular/common": "8.2.12",
+    "@angular/compiler": "8.2.12",
+    "@angular/core": "8.2.12",
+    "@angular/forms": "8.2.12",
+    "@angular/http": "7.2.15",
+    "@angular/platform-browser": "8.2.12",
+    "@angular/platform-browser-dynamic": "8.2.12",
+    "@angular/router": "8.2.12",
+    "@angular/upgrade": "8.2.12",
+    "bootstrap": "4.3.1",
+    "bootstrap-slider": "10.6.2",
+    "core-js": "3.4.0",
+    "reflect-metadata": "^0.1.12",
+    "rxjs": "6.1.0",
+    "systemjs": "0.21.3",
+    "zone.js": "0.8.26",
+    "@aspnet/signalr": "1.1.4"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "4.3.1",
+    "@types/core-js": "2.5.2",
+    "@types/node": "12.11.6",
+    "concurrently": "^3.5.1",
+    "gulp": "^4.0.2",
+    "gulp-clean": "0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlclean": "^2.7.20",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "5.0.1",
+    "lite-server": "2.5.4",
+    "rimraf": "^2.6.2",
+    "typescript": "3.6.4",
+    "typings": "2.1.1"
+  }
+}
