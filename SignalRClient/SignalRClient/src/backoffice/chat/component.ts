@@ -23,7 +23,6 @@ export class ChatComponent implements OnInit, OnDestroy {
     public _chatUrl: string = 'api/chat/userChat';
 
     //Chat
-    public txtMessage: string = '';
     public onlineUser: any = [];
     public chatUsername: string = null;
     public chatConnection: string;
