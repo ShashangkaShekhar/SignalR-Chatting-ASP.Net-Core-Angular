@@ -27,7 +27,7 @@ export class ChatComponent implements OnInit, OnDestroy {
     public chatUsername: string = null;
     public chatConnection: string;
     public chatMessages: any = [];
-    public chatMessage = new Message();
+    public chatMessage: Message = null;
     public _hubConnection;
 
     constructor(
